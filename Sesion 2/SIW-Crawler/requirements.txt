@@ -1,0 +1,6 @@
+requests~=2.31.0
+validators~=0.22.0
+beautifulsoup4~=4.12.2
+certifi~=2023.7.22
+bs4~=0.0.1
+warcio~=1.7.4

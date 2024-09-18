@@ -1,0 +1,25 @@
+Título: La verdad sobre el caso Harry Quebert.
+Autor: Joel Dickler.
+Editorial: DEBOLSILLO.
+Idioma: Castellano.
+Nº de páginas: 800.
+ISBN: 9788466332286.
+Edición: 1ª.
+Edición limitada: No.
+Fecha de lanzamiento: 04/02/2016.
+Reviews:
+	o Review1:
+		> Autor: Jone.
+		> Puntuación: 5.
+		> Fecha de publicación: 14/11/2023.
+		> Contenido: Entretenido, sorprendente. Recomendable.
+	o Review2:
+		> Autor: Inés.
+		> Puntuación: 4.
+		> Fecha de publicación: 06/11/2023.
+		> Contenido: La lectura se hace muy amena y el misterio se mantiene hasta el último capítulo del libro. Lectura muy agradable.
+	o Review3:
+		> Autor: María Jesús Albarés Carrasco.
+		> Puntuación: 5.
+		> Fecha de publicación: 22/10/2023.
+		> Contenido: Magnífico, te atrapa desde la primera página. No pude dejarlo hasta que lo terminé. Cada giro es mejor que el anterior. Sin duda imprescindible leerlo.
